@@ -23,10 +23,10 @@ npm install @fatduckai/ai @fatduckai/brain
 
 | Package | Description | Version |
 |---------|------------|---------|
-| [@fatduckai/core](https://github.com/fatduckai/core) | Core utilities and types for building AI agents | [![npm version](https://img.shields.io/npm/v/@fatduckai/core.svg)](https://www.npmjs.com/package/@fatduckai/core) |
+| [@fatduckai/core](https://github.com/fatduckai/ai-templates) | Core utilities and types for building AI agents | [![npm version](https://img.shields.io/npm/v/@fatduckai/core.svg)](https://www.npmjs.com/package/@fatduckai/core) |
 | [@fatduckai/ai](https://github.com/fatduckai/ai) | Prompt builder and LLM integration tools | [![npm version](https://img.shields.io/npm/v/@fatduckai/ai.svg)](https://www.npmjs.com/package/@fatduckai/ai) |
 | [@fatduckai/brain](https://github.com/fatduckai/brain) | Character engine for creating agents with personality | [![npm version](https://img.shields.io/npm/v/@fatduckai/brain.svg)](https://www.npmjs.com/package/@fatduckai/brain) |
-| [@fatduckai/cli](https://github.com/fatduckai/cli) | CLI tools for managing FatDuck AI projects | [![npm version](https://img.shields.io/npm/v/@fatduckai/cli.svg)](https://www.npmjs.com/package/@fatduckai/cli) |
+| [@fatduckai/cli](https://github.com/fatduckai/ai-templates) | CLI tools for managing FatDuck AI projects | [![npm version](https://img.shields.io/npm/v/@fatduckai/cli.svg)](https://www.npmjs.com/package/@fatduckai/cli) |
 
 ## 🛠️ Tools & Templates
 
