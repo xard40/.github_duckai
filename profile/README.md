@@ -24,8 +24,8 @@ npm install @fatduckai/ai @fatduckai/brain
 | Package | Description | Version |
 |---------|------------|---------|
 | [@fatduckai/core](https://github.com/fatduckai/ai-templates) | Core utilities and types for building AI agents | [![npm version](https://img.shields.io/npm/v/@fatduckai/core.svg)](https://www.npmjs.com/package/@fatduckai/core) |
-| [@fatduckai/ai](https://github.com/fatduckai/ai) | Prompt builder and LLM integration tools | [![npm version](https://img.shields.io/npm/v/@fatduckai/ai.svg)](https://www.npmjs.com/package/@fatduckai/ai) |
-| [@fatduckai/brain](https://github.com/fatduckai/brain) | Character engine for creating agents with personality | [![npm version](https://img.shields.io/npm/v/@fatduckai/brain.svg)](https://www.npmjs.com/package/@fatduckai/brain) |
+| [@fatduckai/prompt-utils](https://github.com/fatduckai/prompt-utils) | Prompt builder and LLM integration tools | [![npm version](https://img.shields.io/npm/v/@fatduckai/prompt-utils.svg)](https://www.npmjs.com/package/@fatduckai/ai) |
+| [@fatduckai/ai](https://github.com/fatduckai/ai) | Engine for creating agents | [![npm version](https://img.shields.io/npm/v/@fatduckai/ai.svg)](https://www.npmjs.com/package/@fatduckai/brain) |
 | [@fatduckai/cli](https://github.com/fatduckai/ai-templates) | CLI tools for managing FatDuck AI projects | [![npm version](https://img.shields.io/npm/v/@fatduckai/cli.svg)](https://www.npmjs.com/package/@fatduckai/cli) |
 
 ## 🛠️ Tools & Templates
@@ -57,7 +57,7 @@ Visit our [documentation](https://docs.fatduckai.com) to learn more about:
 
 ```typescript
 // Simple prompt building
-import { PromptBuilder } from '@fatduckai/ai';
+import { PromptBuilder } from '@fatduckai/prompt-utils';
 
 const prompt = new PromptBuilder(template)
   .withContext({ tone: 'friendly' })
@@ -93,8 +93,8 @@ Each repository has its own contribution requirements, but generally:
 fatduckai/
 ├── Core
 │   ├── core/           # Base utilities and types
-│   ├── ai/             # Prompt building and LLM tools
-│   ├── brain/          # Character engine
+│   ├── prompt-utils/   # Prompt building and LLM tools
+│   ├── ai/          # AI engine
 │   └── cli/            # CLI tools
 │
 ├── Tools
