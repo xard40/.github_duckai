@@ -16,7 +16,7 @@
 
 ```bash
 # Create a new AI agent
-git clone [https://github.com/fatduckai/ai](https://github.com/FatduckAI/ai.git)
+git clone https://github.com/FatduckAI/ai.git
 ```
 
 > cli and boilerplate under construction
