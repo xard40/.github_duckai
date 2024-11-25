@@ -1,12 +1,15 @@
+![duck_banner](https://github.com/user-attachments/assets/33c039c6-bd6a-436f-952e-fbc88ae07c50)
 <div align="center">
-  <img src="/api/placeholder/120/120" alt="FatDuck AI Logo" width="120" height="120"/>
-  
-  # FatDuck AI
+
+  <h1>Fatduck AI</h1>
   
   _Build intelligent AI agents with personality_
 
   [![Twitter Follow](https://img.shields.io/twitter/follow/fatduckai?style=social)](https://twitter.com/fatduckai)
   [![Ducky Twitter](https://img.shields.io/twitter/follow/duckunfiltered?style=social)](https://twitter.com/duckunfiltered)
+  ![Telegram Chat][tg-badge]
+
+[tg-badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FDuckUnfiltered
 </div>
 
 ## 🚀 Quick Start
