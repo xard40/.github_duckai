@@ -34,17 +34,8 @@ git clone https://github.com/FatduckAI/ai.git
 
 | Repository | Description |
 |------------|-------------|
-| [create-fatduckai-app](https://github.com/fatduckai/create-fatduckai-app) | Create AI agents with zero configuration |
-| [fatduckai-templates](https://github.com/fatduckai/templates) | Official templates for different agent types |
-| [fatduckai-examples](https://github.com/fatduckai/examples) | Example projects and implementations |
-
-## 🌟 Features
-
-- **Modular Architecture**: Use only what you need
-- **Personality Engine**: Create agents with distinct personalities and behaviors
-- **Platform Agnostic**: Deploy to Telegram, Twitter, Discord, or custom platforms
-- **Token Efficient**: Smart token management and caching
-- **Developer Friendly**: Strong TypeScript support and comprehensive documentation
+| [Agent Directory](https://github.com/FatduckAI/agent-directory) | A Directory of AI agents |
+| [twitter-utils](https://github.com/FatduckAI/twitter-agent-utils) | media uploads, polls, retweets, likes, follow, search, get profile, longform |
 
 ## 📜 License
 
