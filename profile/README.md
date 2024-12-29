@@ -1,7 +1,7 @@
 ![duck_banner](https://github.com/user-attachments/assets/33c039c6-bd6a-436f-952e-fbc88ae07c50)
 <div align="center">
 
-  <h1>Fatduck AI</h1>
+  <h1>Duck AI</h1>
   
   _Build intelligent AI agents with personality_
 
